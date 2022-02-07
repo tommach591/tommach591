@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommach591
-- 👀 I’m interested in ... developing things (currently games)
-- 🌱 I’m currently learning ... openframeworks, mysql, and more about c++/python
+- 👀 I’m interested in ... developing things to pass time
+- 🌱 I’m currently learning ... sql/nosql
 - 💞️ I’m looking to collaborate on ... n/a
 - 📫 How to reach me ... tom.m.mach@gmail.com
 
