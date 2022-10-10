@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @tommach591
-- 👀 I’m interested in ... developing fun projects
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ... n/a
-- 📫 How to reach me ... tom.m.mach@gmail.com
+- 👀 I’m looking for a software engineer job.
+- 🌱 I’m currently learning React while applying for jobs.
+- 📫 How to reach me @tom.m.mach@gmail.com.
+
+- Portfolio: https://tommach591.github.io/
+- LinkedIn: https://www.linkedin.com/in/tom-mach/ 
 
 <!---
 tommach591/tommach591 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
