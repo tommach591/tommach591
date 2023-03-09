@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Mach.
-- 👀 I’m looking for a software engineer job.
+- 👀 I’m looking for an entry level software engineering job.
 - 🌱 I’m developing React projects while applying for jobs.
 - 📫 How to reach me @tom.m.mach@gmail.com.
 
