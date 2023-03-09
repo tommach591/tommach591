@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tommach591
+- 👋 Hi, I’m Tom Mach.
 - 👀 I’m looking for a software engineer job.
-- 🌱 I’m currently learning React while applying for jobs.
+- 🌱 I’m developing React projects while applying for jobs.
 - 📫 How to reach me @tom.m.mach@gmail.com.
 
 - Portfolio: https://tommach591.github.io/
