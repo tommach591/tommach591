@@ -3,7 +3,7 @@
 - 🌱 I’m developing React projects while applying for jobs.
 - 📫 How to reach me tom.m.mach@gmail.com.
 
-- Portfolio: https://tommach591.github.io/
+- Portfolio: https://tom-mach-portfolio.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/tom-mach/ 
 
 <!---
