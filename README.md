@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Tom Mach.
-- 👀 I’m looking for a software engineering opportunities.
-- 🌱 I’m developing React projects while applying for jobs.
-- 📫 How to reach me tom.m.mach@gmail.com.
+- 👋 Hi, I’m Tom Mach. I develop mostly React projects on the side.
 
 - Portfolio: https://tom-mach-portfolio.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/tom-mach/ 
